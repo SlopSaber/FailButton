@@ -1,11 +1,11 @@
-﻿{
+{
     "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
     "id": "FailButton",
     "name": "FailButton",
     "author": "Kinsi55",
     "version": "0.0.4",
     "description": "Adds a button to the pause menu that fails the level",
-    "gameVersion": "1.45.1",
+    "gameVersion": "1.45.2",
     "dependsOn": {
         "BSIPA": "^4.0.5"
     }
